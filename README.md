@@ -5,6 +5,12 @@
 | 1   | Aslam Ahmad Usman      | 5027241074 |
 | 2   | Zahra Hafizhah         | 5027241121 |
 
+
+##  Subnetting
+
+![My Image](https://imgur.com/h2QIKlJ.png)
+
+
 ## Tabel Rute Subnet
 
 | Nama Subnet | Rute                                             | Jumlah IP | Netmask         |
@@ -41,3 +47,9 @@
 | A11    | 255.255.255.252 | 192.225.3.24   | 192.225.3.27   | 192.225.3.25 - 192.225.3.26   |
 | A12    | 255.255.255.252 | 192.225.3.28   | 192.225.3.31   | 192.225.3.29 - 192.225.3.30   |
 | A13    | 255.255.255.252 | 192.225.3.32   | 192.225.3.35   | 192.225.3.33 - 192.225.3.34   |
+
+
+# Tree
+
+![My Image](https://imgur.com/cnG1qyd.png)
+
