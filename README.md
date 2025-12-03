@@ -5,11 +5,11 @@
 | 1   | Aslam Ahmad Usman      | 5027241074 |
 | 2   | Zahra Hafizhah         | 5027241121 |
 
+#  Misi 1: Memetakan Medan Perang
 
-##  Subnetting
+## 1. Identifikasi Perangkat:
 
 ![My Image](https://imgur.com/h2QIKlJ.png)
-
 
 ## Tabel Rute Subnet
 
@@ -49,7 +49,9 @@
 | A13    | 255.255.255.252 | 192.225.3.32   | 192.225.3.35   | 192.225.3.33 - 192.225.3.34   |
 
 
-# Tree
+## 2.  Pohon Subnetting VLSM
+
+Setelah membagi alamat IP menggunakan VLSM, membuat tree subnet yang menunjukkan hierarki pembagian IP di jaringan Aliansi dan melingkari subnet yang akan dilewati.
 
 ![My Image](https://imgur.com/cnG1qyd.png)
 
